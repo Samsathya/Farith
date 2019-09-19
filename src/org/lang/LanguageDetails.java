@@ -12,6 +12,7 @@ System.out.println("Language is English");
 
 public void hindhiLanguage() {
 System.out.println("Language is Hindhi");
+System.out.println("LAnguage is English");
 }
 
 public static void main(String[] args) {
