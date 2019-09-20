@@ -21,6 +21,7 @@ public static void main(String[] args) {
 	l. tamilLanguage();
 	l. englishLanguage();
 	l. hindhiLanguage();
+	System.out.println(l);
 	
 }
 
